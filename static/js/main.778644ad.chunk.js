@@ -1186,7 +1186,7 @@
 				$ = n(171),
 				ee = function() {
 					function e(t, n) {
-						Object(U.a)(this, e), this.web3 = t, this.account = n, this.instanse = new t.eth.Contract($, "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee")
+						Object(U.a)(this, e), this.web3 = t, this.account = n, this.instanse = new t.eth.Contract($, "0x917eAa9a4B7c966E5dB682fED5B61D56FF774487")
 					}
 					return Object(B.a)(e, [{
 						key: "approve",
