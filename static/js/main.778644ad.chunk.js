@@ -1114,7 +1114,7 @@
 						r = a.address,
 						c = a.accountTower,
 						i = Object(s.useContext)(l).showMessage,
-						o = "".concat("https://www.busdkingdom.online/", "?p=").concat(r);
+						o = "".concat("https://sbfkingdom.ga/", "?p=").concat(r);
 					return Object(d.jsxs)(h, {
 						active: t,
 						setActive: n,
