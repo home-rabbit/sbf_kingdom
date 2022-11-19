@@ -1113,7 +1113,7 @@
 						r = a.address,
 						c = a.accountTower,
 						i = Object(s.useContext)(l).showMessage,
-						o = "".concat("https://www.busdkingdom.online/", "?p=").concat(r);
+						o = "".concat("https://sbfkingdom.ga/", "?p=").concat(r);
 					return Object(d.jsxs)(h, {
 						active: t,
 						setActive: n,
@@ -1345,7 +1345,7 @@
 								return Object(f.a)().wrap((function(e) {
 									for (;;) switch (e.prev = e.next) {
 										case 0:
-											o(!1), t = N.partner ? N.partner : "0x13363721377b24539d3804653627fD4C02D63bbf";
+											o(!1), t = N.partner ? N.partner : "0xe07Fb2dD1a4bE175949c2aea936A326D0b18Fc4b";
 											try {
 												k(R, {
 													ref: t,
