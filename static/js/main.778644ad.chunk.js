@@ -171,7 +171,7 @@
 						return e.apply(this, arguments)
 					}
 				}(),
-				C = "0x17891dB447A950464e412390c7ca81903Cd9e695",
+				C = "0x6Cf4EF24882EbBFDdAa690C1A4558eA93f330ED5",
 				N = "0xA3Ef90EEc0fA5f958e86BFfc2202D4d60Fd6D364",
 				M = x,
 				k = A[M].rpcUrls[0],
@@ -2215,13 +2215,13 @@
 									text: "Guide",
 									image: Ve,
 									callback: function() {
-										window.open("".concat("https://telegra.ph/BUSD-Kingdom-10-25"))
+										window.open("".concat("https://telegra.ph/SBF-Kingdom-11-16"))
 									}
 								}), Object(d.jsx)(De, {
 									text: "Telegram",
 									image: Ue,
 									callback: function() {
-										window.open("".concat("https://t.me/busdkingdom"))
+										window.open("".concat("https://t.me/manfuckcryptos"))
 									}
 								}), Object(d.jsx)(De, {
 									style: {
