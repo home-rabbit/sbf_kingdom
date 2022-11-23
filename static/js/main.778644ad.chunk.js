@@ -98,19 +98,18 @@
 					}))
 				},
 				v = n(20),
-				x = 97,
+				x = 56,
 				g = 97,
 				A = (a = {}, Object(v.a)(a, x, {
-					chainId: "0x61",
-					chainName: "BSC TESTNET",
-					rpcUrls: ["https://data-seed-prebsc-1-s1.binance.org:8545"],
+					chainId: "0x38",
+					chainName: "Smart Chain",
+					rpcUrls: ["https://bsc-dataseed.binance.org/"],
 					nativeCurrency: {
 						name: "BINANCE COIN",
 						symbol: "BNB",
 						decimals: 18
-						
 					},
-					blockExplorerUrls: ["https://testnet.bscscan.com/"]
+					blockExplorerUrls: ["https://bscscan.com/"]
 				}), Object(v.a)(a, g, {
 					chainId: "0x61",
 					chainName: "BSC TESTNET",
@@ -172,8 +171,8 @@
 						return e.apply(this, arguments)
 					}
 				}(),
-				C = "0xa4eA7A5dCFFa75b10F58Ef404b41B8b602505c73",
-				N = "0xa2742D357eC25BbaEBE97e8A3392275E0E9bDC6E",
+				C = "0x6Cf4EF24882EbBFDdAa690C1A4558eA93f330ED5",
+				N = "0xA3Ef90EEc0fA5f958e86BFfc2202D4d60Fd6D364",
 				M = x,
 				k = A[M].rpcUrls[0],
 				S = {
@@ -1186,7 +1185,7 @@
 				$ = n(171),
 				ee = function() {
 					function e(t, n) {
-						Object(U.a)(this, e), this.web3 = t, this.account = n, this.instanse = new t.eth.Contract($, "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee")
+						Object(U.a)(this, e), this.web3 = t, this.account = n, this.instanse = new t.eth.Contract($, "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56")
 					}
 					return Object(B.a)(e, [{
 						key: "approve",
@@ -2222,7 +2221,7 @@
 									text: "Telegram",
 									image: Ue,
 									callback: function() {
-										window.open("".concat("https://t.me/brokenftx"))
+										window.open("".concat("https://t.me/manfuckcryptos"))
 									}
 								}), Object(d.jsx)(De, {
 									style: {
